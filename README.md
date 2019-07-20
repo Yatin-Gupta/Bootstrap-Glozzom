@@ -16,8 +16,8 @@ This UI theme is made by me also known as Bootstrap Glozzom. Let me show you som
 
 ## Mobile Responsiveness
 
-![alt text][https://github.com/Yatin-Gupta/Bootstrap-Glozzom/blob/master/readme_images/responsive.png "Mobile Responsiveness"]
+![alt text](https://github.com/Yatin-Gupta/Bootstrap-Glozzom/blob/master/readme_images/responsive.png "Mobile Responsiveness")
 
 ## Video Modal Responsiveness
 
-![alt text][https://github.com/Yatin-Gupta/Bootstrap-Glozzom/blob/master/readme_images/video-modal-mobile.png "Video Modal Responsiveness"]
+![alt text](https://github.com/Yatin-Gupta/Bootstrap-Glozzom/blob/master/readme_images/video-modal-mobile.png "Video Modal Responsiveness")
