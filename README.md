@@ -1,3 +1,7 @@
 # Boostrap Theme
 
-This UI theme is made by me also known as Bootstrap Glozzom. UI reference is taken from Udemy tutorial project, but code is completely mine. It is not copied from tutorials.
+This UI theme is made by me also known as Bootstrap Glozzom. Let me show you some of the features of this site:
+
+## Bootstrap Carousel
+
+![alt text](https://github.com/Yatin-Gupta/Bootstrap-Glozzom/blob/master/carousel.png "Bootstrap Glozzom Carousel")
